@@ -1,3 +1,4 @@
+![alt tag](https://raw.githubusercontent.com/seanlee3721/Applico-Data-Analyst-Intern-Assignment/master/Applico.png)
 Applico-Data-Analyst-Intern-Assignment
 ======================================
 
