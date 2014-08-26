@@ -6,7 +6,7 @@ Using API Token and Project ID  to get the complexity point, and the end point i
 
   ![alt tag](https://raw.githubusercontent.com/seanlee3721/Applico-Data-Analyst-Intern-Assignment/master/Chart.png)
 
-As the CSV file is shown the every weekly budget Consumed, the burndown chart is shown relation between accumulated budget consumed and the Complexity Points Remaining.
+As the CSV file is shown the weekly budget consumed and the engineer estimated the same story as the complexity point, the burndown chart is shown relation between Accumulated Budget Consumed and the Complexity Points Remaining. 
 
 ![alt tag](https://raw.githubusercontent.com/seanlee3721/Applico-Data-Analyst-Intern-Assignment/master/Project%20Burndown%20Chart.png)
 
