@@ -11,4 +11,5 @@ As the CSV file is shown the every weekly budget Consumed, the burndown chart is
 ![alt tag](https://raw.githubusercontent.com/seanlee3721/Applico-Data-Analyst-Intern-Assignment/master/Project%20Burndown%20Chart.png)
 
 I used Python to get the end point data which is estimate complexity of the story. Code:https://raw.githubusercontent.com/seanlee3721/Applico-Data-Analyst-Intern-Assignment/master/pivotaltracker_api.py
+
 Then I used Excel to create the burndown chart.
